@@ -24,7 +24,7 @@ function Topbar() {
                         <div className="topbarIconContainer">
                             <Settings/>
                         </div>
-                        <img src="https://www.pexels.com/photo/close-up-photo-of-woman-s-beautiful-face-2661255/" alt="" className="topAvatar" />
+                        <img src="https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="" className="topAvatar" />
                     </div>
                 </div>
             </div>
